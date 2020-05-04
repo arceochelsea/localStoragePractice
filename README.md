@@ -1,0 +1,1 @@
+Practicing How to Apply localStorage to Applications
